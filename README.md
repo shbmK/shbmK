@@ -22,3 +22,7 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=shbmK&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/shbmK/shbmK/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
