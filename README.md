@@ -15,8 +15,8 @@
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shbmK&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shbmK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shbmK&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shbmK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
 </p>
 
 <p>
